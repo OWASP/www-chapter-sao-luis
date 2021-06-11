@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Fabio Oliveira](mailto:fabio.oliveira@owasp.org)
+* [Alvin Junior](mailto:alvin.junior@owasp.org)
