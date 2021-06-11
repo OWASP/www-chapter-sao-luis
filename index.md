@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Sao Luis
 tags: example-tag
 region: South America
-meetup-group:
+meetup-group: owasp-sao-luis
 
 ---
 
