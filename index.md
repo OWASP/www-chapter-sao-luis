@@ -29,9 +29,16 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 ## Seja Bem Vindo ao OWASP São Luís Chapter
 A OWASP São Luís é um dos diversos capítulos existente no mundo e tem os seguintes objetivos:
 
+- Fortalecer a comunidade de segurança de sfotware em São Luís - MA.
+- Disseminar informação de qualidade para a região.
+- Provocar discussões sobre os temas relacionados a OWASP.
+- Promover e divulgar eventos e encontros.
+
 
 ## Sobre a OWASP
 A Open Web Application Security Project (OWASP) é uma organização mundial sem fins lucrativos focada em melhorar a segurança de software. Nossa missão é tornar a segurança de software visível, para que as pessoas e organizações possam tomar decisões informadas sobre os verdadeiros riscos à segurança de software. Todos são livres para participar da OWASP e todos os nossos materiais estão disponíveis sob uma licença de software livre e aberta.
+
+## Como participar 
 
 Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/legal/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
 
