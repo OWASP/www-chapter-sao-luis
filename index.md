@@ -12,6 +12,8 @@ meetup-group: owasp-sao-luis
 ## Seja Bem Vindo ao OWASP São Luís Chapter
 A OWASP São Luís é um dos diversos capítulos existente no mundo e tem os seguintes objetivos:
 
+<img src="https://github.com/OWASP/www-chapter-sao-luis/blob/main/assets/images/Logo.png">
+
 - Fortalecer a comunidade de segurança de sfotware em São Luís - MA.
 - Disseminar informação de qualidade para a região.
 - Provocar discussões sobre os temas relacionados a OWASP.
