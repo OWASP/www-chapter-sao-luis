@@ -14,7 +14,7 @@ A OWASP São Luís é um dos diversos capítulos existente no mundo e tem os seg
 
 <img src="https://github.com/OWASP/www-chapter-sao-luis/blob/main/assets/images/Logo.png">
 
-- Fortalecer a comunidade de segurança de sfotware em São Luís - MA.
+- Fortalecer a comunidade de segurança de software em São Luís - MA.
 - Disseminar informação de qualidade para a região.
 - Provocar discussões sobre os temas relacionados a OWASP.
 - Promover e divulgar eventos e encontros.
