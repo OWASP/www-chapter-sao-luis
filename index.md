@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Sao Luis
-tags: example-tag
+tags: eventos-tag
 region: South America
 meetup-group: owasp-sao-luis
 
